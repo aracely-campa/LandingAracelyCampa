@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #ff69b4;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+    
+}
+
+a {
+    color: #ff69b4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    background-color: #ff69b4;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #d3578a;
+}
+.imagen-personal {
+    width: 200px; 
+    height: auto; 
+    border: 2px solid #ff69b4;
+}
+.imagenes-hobbies {
+    width: 200px; 
+    height: 200px; 
+    border: 2px solid #ff69b4;
+}
